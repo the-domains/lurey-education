@@ -1,7 +1,7 @@
 name: LuRey Education
 favicon: null
-layout_spectrum: 0.14793587918393314
-typography_spectrum: 0.5043091580737382
+layout_spectrum: 0.99784
+typography_spectrum: 0.5
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.9725141718517989
+    - '#000000'
+    - '#fc8d25'
+    - '#8c340d'
+    - '#f4f3f1'
+    - '#bfb5aa'
+  brandStrength: 0.75
   lightness: 0.8106577831786126
   saturation: 0.4806749918498099
-  rhythmicContrast: 0.13651085505262017
+  rhythmicContrast: 0.5
 purpose: []
